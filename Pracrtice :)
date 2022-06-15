@@ -1,0 +1,75 @@
+<pre><code># The largest heading
+## The second largest heading
+###### The smallest heading<br /></code></pre>
+<table>
+<thead>
+<tr>
+<th>Style</th>
+<th>Syntax</th>
+<th>Keyboard shortcut</th>
+<th>Example</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bold</td>
+<td><code>** **</code>&nbsp;or&nbsp;<code>__ __</code></td>
+<td><kbd>Command</kbd>+<kbd>B</kbd>&nbsp;(Mac) or&nbsp;<kbd>Ctrl</kbd>+<kbd>B</kbd>&nbsp;(Windows/Linux)</td>
+<td><code>**This is bold text**</code></td>
+<td><strong>This is bold text</strong></td>
+</tr>
+<tr>
+<td>Italic</td>
+<td><code>* *</code>&nbsp;or&nbsp;<code>_ _</code>&nbsp;&emsp;&emsp;&emsp;&emsp;</td>
+<td><kbd>Command</kbd>+<kbd>I</kbd>&nbsp;(Mac) or&nbsp;<kbd>Ctrl</kbd>+<kbd>I</kbd>&nbsp;(Windows/Linux)</td>
+<td><code>*This text is italicized*</code></td>
+<td><em>This text is italicized</em></td>
+</tr>
+<tr>
+<td>Strikethrough</td>
+<td><code>~~ ~~</code></td>
+<td><code>~~This was mistaken text~~</code></td>
+<td><del>This was mistaken text</del></td>
+</tr>
+<tr>
+<td>Bold and nested italic</td>
+<td><code>** **</code>&nbsp;and&nbsp;<code>_ _</code></td>
+<td><code>**This text is _extremely_ important**</code></td>
+<td><strong>This text is&nbsp;<em>extremely</em>&nbsp;important</strong></td>
+</tr>
+<tr>
+<td>All bold and italic</td>
+<td><code>*** ***</code></td>
+<td><code>***All this text is important***</code></td>
+<td><strong><em>All this text is important</em></strong></td>
+</tr>
+<tr>
+<td>Subscript</td>
+<td><code>&lt;sub&gt; &lt;/sub&gt;</code></td>
+<td><code>&lt;sub&gt;This is a subscript text&lt;/sub&gt;</code></td>
+<td><sub>This is a subscript text</sub></td>
+</tr>
+<tr>
+<td>Superscript</td>
+<td><code>&lt;sup&gt; &lt;/sup&gt;</code></td>
+<td><code>&lt;sup&gt;This is a superscript text&lt;/sup&gt;</code></td>
+<td><sup>This is a superscript text</sup></td>
+</tr>
+</tbody>
+</table>
+<pre><code></code></pre>
+<p>You can quote text with a&nbsp;<kbd>&gt;</kbd>.</p>
+<pre><code></code></pre>
+<pre><code>Keithy Pangit
+&gt;
+</code></pre>
+<pre><code></code></pre>
+<p><img src="https://docs.github.com/assets/cb-12181/images/help/writing/quoted-text-rendered.png" alt="Rendered quoted text" /></p>
+<p><kbd>Command</kbd>+<kbd>E</kbd>&nbsp;(Mac) or&nbsp;<kbd>Ctrl</kbd>+</p>
+<pre><code>Use `git status` to list all new or modified files that haven't yet been committe</code></pre>
+<pre><code></code></pre>
+<pre><code></code></pre>
+<pre><code></code></pre>
+<pre><code></code></pre>
+<pre><code></code></pre>
